@@ -28,9 +28,42 @@ console.log(sayHello('Javascript'));
 
 function sayHello(name) {
     let msg = 'Do it again ' + name + ' but why?!?';
-    return msg
+    return msg;
 }
 
 console.log(sayHello('My guy'));
 
+function sayHello(name) {
+    let msg = 'Hello ' + name + '. How are you?';
+    return msg;
+}
 
+console.log(sayHello('Pencil'));
+
+function sayHello(name) {
+    let msg = 'Hello ' + name + '. How are you?';
+    return msg;
+}
+
+console.log(sayHello('Charizard'));
+
+function sayHello(name) {
+    let msg = 'Hello ' + name + '. How are you?';
+    return msg;
+}
+
+console.log(sayHello('Luffy'));
+
+function sayHello(name) {
+    let msg = 'Hello ' + name + '. How are you?';
+    return msg;
+}
+
+console.log(sayHello('GON'));
+
+function sayHello(name) {
+    let msg = 'Hello ' + name + '. How are you?';
+    return msg;
+}
+
+console.log(sayHello('Attack on Titan'));
